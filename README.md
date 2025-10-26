@@ -18,7 +18,7 @@ A mini API for tokenizing physical assets into pNFTs (physical NFTs) following t
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/JulienPul/galileo_tokeniser.git
 cd galileo_tokeniser
 ```
 
